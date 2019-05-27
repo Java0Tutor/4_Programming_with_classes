@@ -1,1 +1,3 @@
-# 4_Programming_with_classes
+# Programming with classes
+
+Материал будет доступен с 17-го июня 2019 г.
